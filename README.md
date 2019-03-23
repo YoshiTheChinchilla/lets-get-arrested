@@ -38,3 +38,7 @@ It's easy. Fork this project and branch it as gh-pages. It's all done. It would 
 ## Not arrested?
 
 You can surrender yourself to the police.
+
+## GitHub Pages
+
+[This repo](https://yoshithechinchilla.github.io/lets-get-arrested)
